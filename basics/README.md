@@ -4,3 +4,4 @@
 3-listfiles displays in long format the current dir contents
 4-listmorefiles is similar to 3-listfiles, but includes hidden files
 5-listfilesdigitonly displays all info numerically
+6-firstdirectory creates a dir named my_first_directory in ./tmp, creating /tmp as needed
