@@ -5,3 +5,4 @@
 4-listmorefiles is similar to 3-listfiles, but includes hidden files
 5-listfilesdigitonly displays all info numerically
 6-firstdirectory creates a dir named my_first_directory in ./tmp, creating /tmp as needed
+7-movethatfile moves file 'betty' from /tmp to tmp subdir my_first_directory
