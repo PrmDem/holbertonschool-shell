@@ -8,3 +8,4 @@
 7-movethatfile moves file 'betty' from /tmp to tmp subdir my_first_directory
 8-firstdelete deletes file 'betty'
 9-firstdirdeletion deletes my_first_directory
+10-back
