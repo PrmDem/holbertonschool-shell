@@ -12,3 +12,4 @@
 11-lists lists all files in working dir, its parent, and the /boot dir
 12-file_type prints type of iamafile
 13-symbolic_link creates a symbolic link to /bin/ls named __ls__
+14-copy_html copies all updated or new HTML files to parent dir
