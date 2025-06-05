@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes my_first_directory
 10-back brings user back to the previous working directory
 11-lists lists all files in working dir, its parent, and the /boot dir
+12-file_type prints type of iamafile
