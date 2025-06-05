@@ -8,4 +8,5 @@
 7-movethatfile moves file 'betty' from /tmp to tmp subdir my_first_directory
 8-firstdelete deletes file 'betty'
 9-firstdirdeletion deletes my_first_directory
-10-back
+10-back brings user back to the previous working directory
+11-lists lists all files in working dir, its parent, and the /boot dir
